@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Functions/10_Function Pointer.md",
+                "file": "05_OOPS/07_Types of Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Functions/10_Function Pointer.md",
+                "file": "05_OOPS/07_Types of Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Functions/10_Function Pointer.md",
+                "file": "05_OOPS/07_Types of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Functions/10_Function Pointer.md"
+                "file": "05_OOPS/07_Types of Functions.md"
               }
             }
           }
@@ -244,8 +244,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "410b41dd0022c1d9",
+  "active": "72bc14505b943c8c",
   "lastOpenFiles": [
+    "04_Functions/10_Function Pointer.md",
+    "04_Functions/09_Recursion.md",
     "05_OOPS/07_Deep Copy Constructor.md",
     "05_OOPS/07_Types of Functions.md",
     "All Images/Screenshot from 2023-11-26 11-36-12.png",
@@ -257,12 +259,10 @@
     "05_OOPS/04_De-referencing in class.md",
     "05_OOPS/01_Introduction.md",
     "05_OOPS/02_Memory Allocation.md",
-    "04_Functions/10_Function Pointer.md",
     "05_OOPS/02_Class vs Objects.md",
     "05_Structs and Enums",
     "04_Functions/07_Returning ways.md",
     "04_Functions/08_Static Variables.md",
-    "04_Functions/09_Recursion.md",
     "05_OOPS",
     "05_OOPS",
     "04_Functions/06_Parameter Passing.md",
