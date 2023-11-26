@@ -1,12 +1,12 @@
 **Global variables**:  Remain in memory(small space in code section) as long as program runs. Accessible by all functions.
 
 ---
-**Local variable**:** Terminated from memory when the function it is initialized in is terminated. Accessible within the scope of its block.
+**Local variable**: Terminated from memory when the function it is initialized in is terminated. Accessible within the scope of its block.
 
 ---
 **Static Variable**: **_Accessible only within the scope of its block. Remains in memory like global variable. i.e. it is created only once no matter how many times the function is called.
 
-It means that the variable has lifetime of global variable but is bounded to its scope_**
+It means that the variable has lifetime of global variable but is bounded to its scope.
 
 ```cpp
 #include <iostream>  

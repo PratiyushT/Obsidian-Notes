@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_OOPS/01_Introduction.md",
+                "file": "05_OOPS/01_Principles of OOPS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_OOPS/01_Introduction.md",
+                "file": "05_OOPS/01_Principles of OOPS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_OOPS/01_Introduction.md",
+                "file": "05_OOPS/01_Principles of OOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_OOPS/01_Introduction.md"
+                "file": "05_OOPS/01_Principles of OOPS.md"
               }
             }
           }
@@ -181,15 +181,16 @@
   },
   "active": "410b41dd0022c1d9",
   "lastOpenFiles": [
-    "05_OOPS/01_Introduction.md",
-    "05_OOPS",
-    "04_Functions/10_Function Pointer.md",
-    "05_OOPS",
+    "05_Structs and Enums",
     "04_Functions/07_Returning ways.md",
+    "04_Functions/08_Static Variables.md",
+    "04_Functions/10_Function Pointer.md",
+    "04_Functions/09_Recursion.md",
+    "05_OOPS/01_Principles of OOPS.md",
+    "05_OOPS",
+    "05_OOPS",
     "04_Functions/06_Parameter Passing.md",
     "04_Functions/05_Default Arguments.md",
-    "04_Functions/09_Recursion.md",
-    "04_Functions/08_Static Variables.md",
     "02_Pointers and Reference/01_Introduction.md",
     "02_Pointers and Reference/02_Use of pointers.md",
     "02_Pointers and Reference/07_Reference.md",
