@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:05_OOPS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"05_Structs and Enums\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +60,6 @@
   "repelStrength": 10.4355555555556,
   "linkStrength": 0.616592592592593,
   "linkDistance": 266,
-  "scale": 1.1161046854561676,
-  "close": false
+  "scale": 0.9362648500125478,
+  "close": true
 }
