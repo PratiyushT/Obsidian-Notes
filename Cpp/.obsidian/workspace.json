@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "8e08caa912d8a977",
+    "type": "split",
+    "children": [
+      {
+        "id": "0afcc97182576e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9b554f83042b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Functions/10_Function Pointer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b932ba71dfe8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_OOPS/01_Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69f3eb694c9b6802",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de13e648305419f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c91a3ec1110f82c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Arrays/04_Size of an array.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b79f72a585961c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab0cf0c586721562",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "410b41dd0022c1d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "999f4e2def947972",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0fbea236efcac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0057f58e77cce16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_OOPS/01_Introduction.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59cec6e541100e2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_OOPS/01_Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed30dd3473b547e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e5e9ac78d1fdcd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_OOPS/01_Introduction.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "410b41dd0022c1d9",
+  "lastOpenFiles": [
+    "05_OOPS/01_Introduction.md",
+    "05_OOPS",
+    "04_Functions/10_Function Pointer.md",
+    "05_OOPS",
+    "04_Functions/07_Returning ways.md",
+    "04_Functions/06_Parameter Passing.md",
+    "04_Functions/05_Default Arguments.md",
+    "04_Functions/09_Recursion.md",
+    "04_Functions/08_Static Variables.md",
+    "02_Pointers and Reference/01_Introduction.md",
+    "02_Pointers and Reference/02_Use of pointers.md",
+    "02_Pointers and Reference/07_Reference.md",
+    "02_Pointers and Reference/06_Problems with pointer.md",
+    "02_Pointers and Reference/05_Pointer Arithmetic.md",
+    "02_Pointers and Reference/04_Null Pointer.md",
+    "02_Pointers and Reference/03_Stack, Heap and Pointers.md",
+    "01_Arrays/02_Array as a pointer.md",
+    "01_Arrays/04_Size of an array.md",
+    "01_Arrays/05_2-dimensional Arrays or matrices.md",
+    "04_Functions/03_Allocation of Memory for Functions.md",
+    "04_Functions/01_Introduction.md",
+    "04_Functions/02_Function Overloading.md",
+    "04_Functions/04_Function Templates.md",
+    "01_Arrays/03_Looping in Array.md",
+    "01_Arrays/01_Introduction.md",
+    "03_Strings/02_Initialization.md",
+    "03_Strings/03_String Class.md",
+    "Function",
+    "04_Functions",
+    "04_Functions",
+    "03_Strings",
+    "Untitled.canvas",
+    "02_Pointers and Reference",
+    "01_Arrays"
+  ]
+}

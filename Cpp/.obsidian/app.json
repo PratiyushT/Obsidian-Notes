@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "propertiesInDocument": "source",
+  "promptDelete": false
+}
