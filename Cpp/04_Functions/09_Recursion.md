@@ -8,14 +8,14 @@ using namespace std;
   
 int x = 10;  
   
-int factorial(int n) {  
+int factorial_recursion(int n) {  
     if (n == 1) return n; //Base condition  
   
-    return n * factorial(n - 1); //Recursive condition  
+    return n * factorial_recursion(n - 1); //Recursive condition  
 }  
   
 int main() {  
-    cout << factorial(5);  
+    cout << factorial_recursion(5);  
 }
 ```
 

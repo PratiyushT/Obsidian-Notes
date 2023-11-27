@@ -1,4 +1,8 @@
-In the [[03_Stack, Heap and Pointers|code section of the memory]], there will be **machine** code for our main function and all other functions as these are various pieces of code unless [[06_Parameter Passing#Pass by Reference|called by reference]]. This means that even though a function is not called, it will still occupy space in the memory. For example:
+In the [[03_Stack, Heap and Pointers|code section of the memory]], there will be **machine** code for our main function and all other functions separately as these are various pieces of code unless [[06_Parameter Passing#Pass by Reference|called by reference]]. All functions are non-[[11_Inline Functions|inline]] by default.
+
+When there is a call for that function, the program flow will go to that function and then again return back to the `main` function. 
+
+This means that even though a function is not called, it will still occupy space in the memory. For example:
 
 ```cpp
 #include <iostream>  

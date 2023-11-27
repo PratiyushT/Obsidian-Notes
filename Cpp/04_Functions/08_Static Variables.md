@@ -16,9 +16,9 @@ using namespace std;
 int x = 10;  
   
 void func() {
-    static int v = 0;  
-    ++v;  
-    cout << "This function was called: " << v << endl;  
+    static int counter_static = 0;  
+    ++counter_static;  
+    cout << "This function was called: " << counter_static << endl;  
 }  
   
 int main() {  

@@ -1,6 +1,6 @@
 Syntax: `datatype (*pointer_name)(argument_list);`
 
-A function pointer can point to any function as long as the function signature matches.
+A function pointer can point to any function as long as the function signature (only data types and not names) matches.
 
 ```cpp
 #include <iostream>  

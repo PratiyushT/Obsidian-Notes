@@ -55,7 +55,7 @@ Let's say `x` is at memory location 200 and `y` at 201. Here, we are passing the
 ---
 
 ## Pass by Reference
-Unlike normal function, the [[03_Allocation of Memory for Functions|allocation of memory ]]here is different. When passed by reference, the function is not treated separately. The machine code for the function is bundled along with the `main` function. This is called **inline function**. 
+Unlike normal function, the [[03_Allocation of Memory for Functions|allocation of memory ]]here is different. When passed by reference, the function is not treated separately. The machine code for the function is bundled along with the `main` function. This is called [[11_Inline Functions|inline function]]. 
 
 Hence, beyond all the abstraction, there is no actual different function. There is no separate activation record for the `swap` function. Everything is bundled together with the `main` function. So, there are no arguments or parameters. Just normal variables for `main` function. Meaning arguments are same as parameters. They are just aliases for parameters. This meets the concept of [[07_Reference|references]].
 
