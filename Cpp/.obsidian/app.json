@@ -7,5 +7,6 @@
   "showLineNumber": true,
   "showIndentGuide": false,
   "propertiesInDocument": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "08_Base Class Pointer and Derived Class Object"
 }

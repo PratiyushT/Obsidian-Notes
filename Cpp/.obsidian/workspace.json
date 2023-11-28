@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a61a536fafbfd8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_Inheritance/02_Parent Class Constructor.md",
+                "file": "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_Inheritance/02_Parent Class Constructor.md",
+                "file": "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_Inheritance/02_Parent Class Constructor.md"
+                "file": "07_Inheritance/07_Base Class Pointer and Derived Class Object.md"
               }
             }
           }
@@ -205,12 +218,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9681b699bc19980d",
+  "active": "410b41dd0022c1d9",
   "lastOpenFiles": [
+    "07_Inheritance/02_Parent Class Constructor.md",
+    "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
+    "08_Base Class Pointer and Derived Class Object",
     "07_Inheritance/06_Generalization and Specialization.md",
     "00_Media/Pasted image 20231127220210.png",
     "00_Media/Pasted image 20231127220155.png",
-    "07_Inheritance/02_Parent Class Constructor.md",
     "07_Inheritance/05_Ways of Inheritance.md",
     "00_Media/Pasted image 20231127215419.png",
     "00_Media/Pasted image 20231127215338.png",
@@ -250,7 +265,6 @@
     "Function",
     "04_Functions",
     "04_Functions",
-    "03_Strings",
     "Untitled.canvas"
   ]
 }
