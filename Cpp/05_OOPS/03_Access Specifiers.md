@@ -1,8 +1,12 @@
 By default, **all class variables and functions are private**, i.e., they can only be modified or accessed within the class definition itself. This is a form of [[05_OOPS/01_Introduction#Principles of OOPS|encapsulation.]]
 
-**However, we can use `public:` keyword to make them accessible outside the class.
+**However, we can use `public:` keyword to make them accessible outside the class. Objects of a class are allowed to use public data members.
 
-Data hiding means hiding data from parts of the program that don’t need to access it. More specifically, one class’s data is hidden from other classes. Data hiding is designed to protect well-intentioned programmers from honest mistakes. Programmers who really want to can figure out a way to access private data, but they will find it hard to do so by accident
+**[[07_Inheritance/01_Introduction|Inherited Classes]] can use protected data members. They are allowed to use protected and public members of a class.**
+
+Data hiding means hiding data from parts of the program that don’t need to access it. More specifically, one class’s data is hidden from other classes. Data hiding is designed to protect well-intentioned programmers from honest mistakes. Programmers who really want to can figure out a way to access private data, but they will find it hard to do so by accident.
+
+![[Screenshot from 2023-11-27 20-38-17.png]]
 
 ---
 #### Wrong code (in this context)

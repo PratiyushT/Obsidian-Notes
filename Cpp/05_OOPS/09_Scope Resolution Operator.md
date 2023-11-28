@@ -4,9 +4,9 @@
 
 ---
 **Why do this?**
-Machine code for all functions in a class is stored in code section inside `main `function. They will be [[11_Inline Functions|inline functions]]. For example `subtract` here will be a part of `main` function. 
+Machine code for all functions in a class is stored in code section inside `main `function as [[11_Inline Functions|inline functions]]. For example `subtract` here will be a part of `main` function. 
 
-However, if write scope resolution, the machine code for the `add` function is generated separately, i.e., they will be non-inline functions. 
+However, if we write a scope resolution, the machine code for the `add` function is generated separately, i.e., they will be non-inline functions. 
 
 ---
 **Bottom line:** Using scope resolution => not inline, not using scope resolution => inline function.

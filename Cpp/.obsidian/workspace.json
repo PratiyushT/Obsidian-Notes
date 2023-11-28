@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "2f338b7c53df1ae2",
+        "id": "9f0d1bf5a9e0d1f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a93d148f1623f996",
+            "id": "435427507ad0f0ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Functions/08_Static Variables.md",
+                "file": "07_Inheritance/03_isA vs hasA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6134d3a625a72421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Inheritance/03_isA vs hasA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8436b27b16fad89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Inheritance/05_Ways of Inheritance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9681b699bc19980d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Inheritance/02_Parent Class Constructor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Functions/08_Static Variables.md",
+                "file": "07_Inheritance/02_Parent Class Constructor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Functions/08_Static Variables.md",
+                "file": "07_Inheritance/02_Parent Class Constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Functions/08_Static Variables.md"
+                "file": "07_Inheritance/02_Parent Class Constructor.md"
               }
             }
           }
@@ -165,45 +205,52 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a93d148f1623f996",
+  "active": "9681b699bc19980d",
   "lastOpenFiles": [
-    "04_Functions/09_Recursion.md",
-    "04_Functions/08_Static Variables.md",
-    "04_Functions/10_Function Pointer.md",
-    "04_Functions/11_Inline Functions.md",
-    "05_OOPS/09_Scope Resolution Operator.md",
-    "04_Functions/03_Allocation of Memory for Functions.md",
-    "05_OOPS/08_Types of Functions.md",
-    "04_Functions/06_Parameter Passing.md",
-    "05_OOPS/03_Private and Public.md",
-    "05_OOPS/04_De-referencing in class.md",
-    "01_Arrays/04_Size of an array.md",
-    "05_OOPS/06_Constructors.md",
+    "07_Inheritance/06_Generalization and Specialization.md",
+    "00_Media/Pasted image 20231127220210.png",
+    "00_Media/Pasted image 20231127220155.png",
+    "07_Inheritance/02_Parent Class Constructor.md",
+    "07_Inheritance/05_Ways of Inheritance.md",
+    "00_Media/Pasted image 20231127215419.png",
+    "00_Media/Pasted image 20231127215338.png",
+    "00_Media/Pasted image 20231127215315.png",
+    "07_Inheritance/04_Types of Inheritance.md",
+    "00_Media/Screenshot from 2023-11-27 20-47-28.png",
+    "00_Media/Screenshot from 2023-11-27 20-45-07.png",
+    "07_Inheritance/03_isA vs hasA.md",
+    "05_OOPS/03_Access Specifiers.md",
+    "00_Media/Screenshot from 2023-11-27 20-38-17.png",
     "05_OOPS/07_Deep Copy Constructor.md",
-    "All Images/Screenshot from 2023-11-26 11-36-12.png",
-    "All Images",
-    "04_Functions/02_Function Overloading.md",
+    "00_Media/Screenshot from 2023-11-26 11-36-12.png",
+    "05_OOPS/08_Types of Functions.md",
+    "05_OOPS/06_Constructors.md",
     "05_OOPS/05_Data Hiding.md",
-    "05_OOPS/01_Introduction.md",
+    "05_OOPS/04_De-referencing in class.md",
     "05_OOPS/02_Memory Allocation.md",
-    "05_OOPS/02_Class vs Objects.md",
+    "05_OOPS/01_Introduction.md",
+    "06_Operator Overloading/03_Insertion and Exertion Operators.md",
+    "06_Operator Overloading/02_Friend Operator Overloading.md",
+    "06_Operator Overloading/01_Operators.md",
+    "05_OOPS/12_Const Methods.md",
+    "05_OOPS/11_Structs vs Class.md",
+    "05_OOPS/10_This Pointer.md",
+    "05_OOPS/09_Scope Resolution Operator.md",
+    "07_Inheritance/Untitled 1.md",
+    "07_Inheritance/01_Introduction.md",
+    "04_Functions/11_Inline Functions.md",
+    "04_Functions/12_NoDiscard.md",
+    "06_Operator Overloading/P1_Exercise-Find fraction calculations.md",
+    "07_Inheritance",
+    "06_Operator Overloading",
+    "00_Media",
     "05_Structs and Enums",
-    "04_Functions/07_Returning ways.md",
     "05_OOPS",
     "05_OOPS",
-    "04_Functions/05_Default Arguments.md",
-    "02_Pointers and Reference/01_Introduction.md",
-    "02_Pointers and Reference/02_Use of pointers.md",
-    "02_Pointers and Reference/07_Reference.md",
-    "02_Pointers and Reference/06_Problems with pointer.md",
-    "02_Pointers and Reference/05_Pointer Arithmetic.md",
-    "02_Pointers and Reference/04_Null Pointer.md",
     "Function",
     "04_Functions",
     "04_Functions",
     "03_Strings",
-    "Untitled.canvas",
-    "02_Pointers and Reference",
-    "01_Arrays"
+    "Untitled.canvas"
   ]
 }
