@@ -1,6 +1,6 @@
 In this code, we used `display` method to display the value of a complex number. However, we can overload the insertion operator `<<` to use it with `cout`.
 
-**Note: They need to be declared as friend function or we will get an error. Also, we need to use references unlike normal operators.**
+**Note: They need to be declared as [[01_Friend Functions|friend function]] or we will get an error. Also, we need to use references unlike normal operators.**
 
 
 ```cpp

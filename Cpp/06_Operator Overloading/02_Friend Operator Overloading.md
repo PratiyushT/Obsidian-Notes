@@ -1,4 +1,4 @@
-A friend function is written outside a class. However, the function signature must be defined inside the class with the keyword `friend` in front of it. We do not use [[09_Scope Resolution Operator|scope resolutions]] with them. 
+A [[01_Friend Functions|friend function ]]is written outside a class. However, the function signature must be defined inside the class with the keyword `friend` in front of it. We do not use [[09_Scope Resolution Operator|scope resolutions]] with them. 
 
 ---
 ### Features

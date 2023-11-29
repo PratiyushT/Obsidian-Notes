@@ -2,6 +2,7 @@
     Example: Suppose a class `Jobs`. Suppose other classes `Engineers`, `Artists,` `Doctor.`
     
     Here we can say job is a generalized term from which we can get engineers, doctors etc. **It is used for grouping.** First the jobs exist then we group it together to get a general class. ==Children are written first==. **Helps us achieve polymorphism as well.**
+    An example code is written [[02_Runtime Polymorphism|here]].
     ![[Pasted image 20231127220155.png]]
     
 2. **Specialization**:

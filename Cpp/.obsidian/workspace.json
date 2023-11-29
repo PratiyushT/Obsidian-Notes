@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0d1bf5a9e0d1f9",
+        "id": "6adb1a1c613e8ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "435427507ad0f0ea",
+            "id": "51406e0297e6ca7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_Inheritance/03_isA vs hasA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6134d3a625a72421",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Inheritance/03_isA vs hasA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8436b27b16fad89b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Inheritance/05_Ways of Inheritance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9681b699bc19980d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Inheritance/02_Parent Class Constructor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a61a536fafbfd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_Polymorphism/01_Introduction.md",
+                "file": "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_Polymorphism/01_Introduction.md",
+                "file": "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_Polymorphism/01_Introduction.md",
+                "file": "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_Polymorphism/01_Introduction.md"
+                "file": "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md"
               }
             }
           }
@@ -218,45 +165,47 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a61a536fafbfd8f",
+  "active": "51406e0297e6ca7c",
   "lastOpenFiles": [
-    "05_OOPS/09_Scope Resolution Operator.md",
-    "05_OOPS/03_Access Specifiers.md",
-    "05_OOPS/08_Types of Functions.md",
-    "05_OOPS/01_Introduction.md",
-    "05_OOPS/05_Data Hiding.md",
-    "05_OOPS/02_Memory Allocation.md",
-    "08_Polymorphism/01_Introduction.md",
-    "07_Inheritance/01_Introduction.md",
-    "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
-    "08_Polymorphism",
-    "07_Inheritance/02_Parent Class Constructor.md",
-    "08_Base Class Pointer and Derived Class Object",
-    "07_Inheritance/06_Generalization and Specialization.md",
-    "00_Media/Pasted image 20231127220210.png",
-    "00_Media/Pasted image 20231127220155.png",
-    "07_Inheritance/05_Ways of Inheritance.md",
-    "00_Media/Pasted image 20231127215419.png",
-    "00_Media/Pasted image 20231127215338.png",
-    "00_Media/Pasted image 20231127215315.png",
-    "07_Inheritance/04_Types of Inheritance.md",
-    "00_Media/Screenshot from 2023-11-27 20-47-28.png",
-    "00_Media/Screenshot from 2023-11-27 20-45-07.png",
-    "07_Inheritance/03_isA vs hasA.md",
-    "00_Media/Screenshot from 2023-11-27 20-38-17.png",
-    "05_OOPS/07_Deep Copy Constructor.md",
-    "00_Media/Screenshot from 2023-11-26 11-36-12.png",
-    "05_OOPS/06_Constructors.md",
-    "05_OOPS/04_De-referencing in class.md",
+    "00_Media/Pasted image 20231129084059.png",
+    "09_ Friend and Static Members and Inner Classes/02_Friend Classes.md",
+    "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
+    "09_ Friend and Static Members and Inner Classes/01_Friend Functions.md",
+    "04_Functions/08_Static Variables.md",
     "06_Operator Overloading/03_Insertion and Exertion Operators.md",
     "06_Operator Overloading/02_Friend Operator Overloading.md",
     "06_Operator Overloading/01_Operators.md",
-    "05_OOPS/12_Const Methods.md",
-    "05_OOPS/11_Structs vs Class.md",
-    "05_OOPS/10_This Pointer.md",
-    "07_Inheritance/Untitled 1.md",
-    "04_Functions/11_Inline Functions.md",
-    "04_Functions/12_NoDiscard.md",
+    "08_Polymorphism/05_Abstract Class.md",
+    "07_Inheritance/02_Parent Class Constructor.md",
+    "07_Inheritance/05_Ways of Inheritance.md",
+    "07_Inheritance/03_isA vs hasA.md",
+    "07_Inheritance/04_Types of Inheritance.md",
+    "02_Pointers and Reference/07_Reference.md",
+    "09_ Friend and Static Members and Inner Classes",
+    "02_Pointers and Reference/06_Problems with pointer.md",
+    "02_Pointers and Reference/04_Null Pointer.md",
+    "02_Pointers and Reference/03_Stack, Heap and Pointers.md",
+    "08_Polymorphism/P1_Exercise- Runtime polymorphism.md",
+    "00_Media/Pasted image 20231128175214.png",
+    "00_Media/Pasted image 20231128174650.png",
+    "08_Polymorphism/03_Pure Virtual Functions.md",
+    "08_Polymorphism/01_Virtual Functions.md",
+    "08_Polymorphism/02_Runtime Polymorphism.md",
+    "07_Inheritance/06_Generalization and Specialization.md",
+    "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
+    "05_OOPS/09_Scope Resolution Operator.md",
+    "05_OOPS/03_Access Specifiers.md",
+    "05_OOPS/08_Types of Functions.md",
+    "08_Polymorphism",
+    "08_Base Class Pointer and Derived Class Object",
+    "00_Media/Pasted image 20231127220210.png",
+    "00_Media/Pasted image 20231127220155.png",
+    "00_Media/Pasted image 20231127215419.png",
+    "00_Media/Pasted image 20231127215338.png",
+    "00_Media/Pasted image 20231127215315.png",
+    "00_Media/Screenshot from 2023-11-27 20-47-28.png",
+    "00_Media/Screenshot from 2023-11-27 20-45-07.png",
+    "00_Media/Screenshot from 2023-11-27 20-38-17.png",
     "07_Inheritance",
     "06_Operator Overloading",
     "00_Media",
@@ -264,7 +213,6 @@
     "05_OOPS",
     "05_OOPS",
     "Function",
-    "04_Functions",
     "Untitled.canvas"
   ]
 }

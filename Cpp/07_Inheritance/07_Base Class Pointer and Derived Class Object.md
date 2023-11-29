@@ -33,3 +33,5 @@ int main() {
 Derived *d;
 b = new Base();//Not allowed because of reason mentioned above.
 ```
+
+To resolve this we use [[01_Virtual Functions|Virtual Functions]]. 
