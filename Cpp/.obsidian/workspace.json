@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "6adb1a1c613e8ca4",
+        "id": "025296505f5d0abd",
         "type": "tabs",
         "children": [
           {
-            "id": "51406e0297e6ca7c",
+            "id": "fa81b6091eab6c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_ Friend and Static Members and Inner Classes/04_Nested or Inner class.md",
+                "file": "10_Exception Handing/01_Types of Error.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d899f22c82f3fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Exception Handing/02_Exception Handling Syntax.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20c317c5a64cba47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Exception Handing/03_Exceptions In functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88bd07e3b5af5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Exception Handing/04_Catch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -34,25 +74,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c91a3ec1110f82c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Arrays/04_Size of an array.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34b79f72a585961c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "formal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +107,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "999f4e2def947972",
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09_ Friend and Static Members and Inner Classes/04_Nested or Inner class.md",
+                "file": "10_Exception Handing/04_Catch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09_ Friend and Static Members and Inner Classes/04_Nested or Inner class.md",
+                "file": "10_Exception Handing/04_Catch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09_ Friend and Static Members and Inner Classes/04_Nested or Inner class.md"
+                "file": "10_Exception Handing/04_Catch.md"
               }
             }
           }
@@ -166,10 +192,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "51406e0297e6ca7c",
+  "active": "c88bd07e3b5af5a1",
   "lastOpenFiles": [
-    "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
+    "00_Media/Pasted image 20231129222818.png",
+    "00_Media/Pasted image 20231129222713.png",
+    "10_Exception Handing/03_Exceptions In functions.md",
+    "10_Exception Handing/04_Catch.md",
+    "10_Exception Handing/02_Exception Handling Syntax.md",
+    "00_Media/Pasted image 20231129220925.png",
+    "10_Exception Handing/01_Types of Error.md",
+    "01_Arrays/04_Size of an array.md",
+    "04_Functions/06_Parameter Passing.md",
+    "04_Functions/04_Function Templates.md",
+    "04_Functions/03_Allocation of Memory for Functions.md",
+    "04_Functions/02_Function Overloading.md",
+    "04_Functions/01_Introduction.md",
     "09_ Friend and Static Members and Inner Classes/04_Nested or Inner class.md",
+    "10_Exception Handing",
+    "09_ Friend and Static Members and Inner Classes/03_Static Members of Class.md",
     "00_Media/Pasted image 20231129084059.png",
     "09_ Friend and Static Members and Inner Classes/02_Friend Classes.md",
     "09_ Friend and Static Members and Inner Classes/01_Friend Functions.md",
@@ -185,19 +225,8 @@
     "02_Pointers and Reference/07_Reference.md",
     "09_ Friend and Static Members and Inner Classes",
     "02_Pointers and Reference/06_Problems with pointer.md",
-    "02_Pointers and Reference/04_Null Pointer.md",
-    "02_Pointers and Reference/03_Stack, Heap and Pointers.md",
-    "08_Polymorphism/P1_Exercise- Runtime polymorphism.md",
     "00_Media/Pasted image 20231128175214.png",
     "00_Media/Pasted image 20231128174650.png",
-    "08_Polymorphism/03_Pure Virtual Functions.md",
-    "08_Polymorphism/01_Virtual Functions.md",
-    "08_Polymorphism/02_Runtime Polymorphism.md",
-    "07_Inheritance/06_Generalization and Specialization.md",
-    "07_Inheritance/07_Base Class Pointer and Derived Class Object.md",
-    "05_OOPS/09_Scope Resolution Operator.md",
-    "05_OOPS/03_Access Specifiers.md",
-    "05_OOPS/08_Types of Functions.md",
     "08_Polymorphism",
     "08_Base Class Pointer and Derived Class Object",
     "00_Media/Pasted image 20231127220210.png",
@@ -205,15 +234,12 @@
     "00_Media/Pasted image 20231127215419.png",
     "00_Media/Pasted image 20231127215338.png",
     "00_Media/Pasted image 20231127215315.png",
-    "00_Media/Screenshot from 2023-11-27 20-47-28.png",
-    "00_Media/Screenshot from 2023-11-27 20-45-07.png",
     "07_Inheritance",
     "06_Operator Overloading",
     "00_Media",
     "05_Structs and Enums",
     "05_OOPS",
     "05_OOPS",
-    "Function",
     "Untitled.canvas"
   ]
 }
