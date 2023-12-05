@@ -1,4 +1,4 @@
-Functions that are generic in terms of data types are called function templates. A [[05_Default Arguments|default argument]] cannot be a template.
+Functions that are generic in terms of data types are called function [[01_Templates|templates]]. A [[05_Default Arguments|default argument]] cannot be a template.
 
 ```cpp
 template <class T>  

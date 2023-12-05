@@ -52,15 +52,88 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Exception Handing/04_Catch.md",
+                "file": "11_Template Func and Classes/01_Templates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d5d211314932fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11_Template Func and Classes/01_Templates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba5e7d8fe9094a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Functions/04_Function Templates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbfb5c8da0a94efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12_Constant, Preprocessors and Namespaces/01_Constants.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "442efb005c53505b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12_Constant, Preprocessors and Namespaces/02_Preprocessor Directives or Macros.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c2dac9559fccbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12_Constant, Preprocessors and Namespaces/03_Namespaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95885968febfc3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -79,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Exception Handing/04_Catch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Exception Handing/04_Catch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +237,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10_Exception Handing/04_Catch.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -192,18 +261,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c88bd07e3b5af5a1",
+  "active": "c95885968febfc3c",
   "lastOpenFiles": [
+    "12_Constant, Preprocessors and Namespaces/03_Namespaces.md",
+    "00_Media/Pasted image 20231205171230.png",
+    "00_Media/Pasted image 20231205171122.png",
+    "12_Constant, Preprocessors and Namespaces/02_Preprocessor Directives or Macros.md",
+    "12_Constant, Preprocessors and Namespaces/01_Constants.md",
+    "00_Media/Pasted image 20231205170416.png",
+    "00_Media/Pasted image 20231205170356.png",
+    "10_Exception Handing/01_Types of Error.md",
+    "04_Functions/04_Function Templates.md",
+    "12_Constant, Preprocessors and Namespaces",
+    "11_Template Func and Classes/01_Templates.md",
+    "10_Exception Handing/04_Catch.md",
+    "11_Template Func and Classes",
     "00_Media/Pasted image 20231129222818.png",
     "00_Media/Pasted image 20231129222713.png",
     "10_Exception Handing/03_Exceptions In functions.md",
-    "10_Exception Handing/04_Catch.md",
     "10_Exception Handing/02_Exception Handling Syntax.md",
     "00_Media/Pasted image 20231129220925.png",
-    "10_Exception Handing/01_Types of Error.md",
     "01_Arrays/04_Size of an array.md",
     "04_Functions/06_Parameter Passing.md",
-    "04_Functions/04_Function Templates.md",
     "04_Functions/03_Allocation of Memory for Functions.md",
     "04_Functions/02_Function Overloading.md",
     "04_Functions/01_Introduction.md",
@@ -220,26 +299,15 @@
     "08_Polymorphism/05_Abstract Class.md",
     "07_Inheritance/02_Parent Class Constructor.md",
     "07_Inheritance/05_Ways of Inheritance.md",
-    "07_Inheritance/03_isA vs hasA.md",
-    "07_Inheritance/04_Types of Inheritance.md",
-    "02_Pointers and Reference/07_Reference.md",
     "09_ Friend and Static Members and Inner Classes",
-    "02_Pointers and Reference/06_Problems with pointer.md",
     "00_Media/Pasted image 20231128175214.png",
     "00_Media/Pasted image 20231128174650.png",
     "08_Polymorphism",
     "08_Base Class Pointer and Derived Class Object",
-    "00_Media/Pasted image 20231127220210.png",
-    "00_Media/Pasted image 20231127220155.png",
-    "00_Media/Pasted image 20231127215419.png",
-    "00_Media/Pasted image 20231127215338.png",
-    "00_Media/Pasted image 20231127215315.png",
     "07_Inheritance",
     "06_Operator Overloading",
     "00_Media",
     "05_Structs and Enums",
-    "05_OOPS",
-    "05_OOPS",
     "Untitled.canvas"
   ]
 }
