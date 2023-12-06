@@ -125,11 +125,16 @@
             }
           },
           {
-            "id": "c95885968febfc3c",
+            "id": "bc6ac3ddb2f52aa7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "14_Streams/02_File Handling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -175,7 +180,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -200,6 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "14_Streams/02_File Handling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "14_Streams/02_File Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +244,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "14_Streams/02_File Handling.md"
+              }
             }
           }
         ],
@@ -261,8 +270,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c95885968febfc3c",
+  "active": "bc6ac3ddb2f52aa7",
   "lastOpenFiles": [
+    "14_Streams/01_Introduction.md",
+    "14_Streams/02_File Handling.md",
+    "12_Destructors/03_Virtual Destructor.md",
+    "14_Streams",
+    "13_Destructors/02_Parent Class Destructor.md",
+    "07_Inheritance/02_Parent Class Constructor.md",
+    "13_Destructors/01_Introduction.md",
+    "00_Media/Pasted image 20231205172509.png",
+    "13_Destructors",
     "12_Constant, Preprocessors and Namespaces/03_Namespaces.md",
     "00_Media/Pasted image 20231205171230.png",
     "00_Media/Pasted image 20231205171122.png",
@@ -294,20 +312,12 @@
     "09_ Friend and Static Members and Inner Classes/01_Friend Functions.md",
     "04_Functions/08_Static Variables.md",
     "06_Operator Overloading/03_Insertion and Exertion Operators.md",
-    "06_Operator Overloading/02_Friend Operator Overloading.md",
-    "06_Operator Overloading/01_Operators.md",
-    "08_Polymorphism/05_Abstract Class.md",
-    "07_Inheritance/02_Parent Class Constructor.md",
-    "07_Inheritance/05_Ways of Inheritance.md",
     "09_ Friend and Static Members and Inner Classes",
     "00_Media/Pasted image 20231128175214.png",
-    "00_Media/Pasted image 20231128174650.png",
     "08_Polymorphism",
     "08_Base Class Pointer and Derived Class Object",
     "07_Inheritance",
     "06_Operator Overloading",
-    "00_Media",
-    "05_Structs and Enums",
     "Untitled.canvas"
   ]
 }
